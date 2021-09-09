@@ -8,8 +8,7 @@
 * this tool can help you for Brute-force attack .
 * Please do not use the tool for anything illegal ...
 
-![Broke](https://github.com/d5tr/Broke/blob/main/B.png)
-
+![Broke](https://github.com/d5tr/Broke/blob/main/Broke_photo.png)
 
 # Installations 
 
@@ -25,7 +24,10 @@ $ cd Broke
 $ pip3 install colorama 
 ```
 ```
-$ python3 Broke.py
+$ sudo python3 setup.py
+```
+```
+$ Broke
 ```
 
 # For ISH :
